@@ -18,7 +18,7 @@ This application is built using Streamlit and allows for data anonymization. It 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/data-anonymization-app.git
+   git clone https://github.com/Jay8590/Data-Anonymization
     ```
    
 2. Install the required Python packages:
