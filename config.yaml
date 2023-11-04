@@ -1,0 +1,26 @@
+cookie:
+  expiry_days: 60
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    jayk:
+      email: jay@slrtce.in
+      name: Jay K
+      password: $2b$12$RzVMKs7lsU5xOrxSolWcRO8UtORKPy/2yQB3qF85RjFgmflfcUg3m
+    omkarg:
+      email: omkar@slrtce.in
+      name: Omkar G
+      password: $2b$12$4T2gqEqFCatxngdicYIprusc1LGb4gAAmCw96NJ93QfMP8oRuF.oq
+    riteshS:
+      email: ritesh@slrtce.in
+      name: Ritesh S
+      password: $2b$12$uhVs8wG.kEFat9ooYY6FROe68nn65YvI7PgZc92VEiAhJCjf0qq5K
+preauthorized:
+  emails:
+  - melsby@gmail.com
+database:
+  host: localhost
+  username: root
+  password: Planet@123
+  name: user_data
